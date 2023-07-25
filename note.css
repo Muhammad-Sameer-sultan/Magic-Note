@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');
+*{
+    margin:0;
+    padding :0;
+    box-sizing: border-box;
+}
+body {
+  padding: 10px;
+  /* background: linear-gradient(to right, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('gb.jpg');
+  background-repeat: no-repeat;
+  background-size: cover; */
+
+}
+
